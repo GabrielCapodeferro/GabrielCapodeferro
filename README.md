@@ -6,19 +6,20 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ4cWFuNDkxdnhkOWxtZmdtcG92cmpzdmc3dWo0ZDB3ZDNsMjdmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89oLWxz6BsuvLy8OK0/giphy.webp"  />
+
 
 ###
 
 <h2 align="left">Sobre mim</h2>
 
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ4cWFuNDkxdnhkOWxtZmdtcG92cmpzdmc3dWo0ZDB3ZDNsMjdmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89oLWxz6BsuvLy8OK0/giphy.webp"  />
 ###
 
 <p align="left">🔞19 anos<br>♒Aquriano<br>🚗GearHead<br>🤓Cursando Análise e Desenvolvimento de Sistemas no IFSP-BRA(1° semestre).</p>
 
 ###
 
-<h2 align="left">MInhas Habilidades</h2>
+<h2 align="left">Minhas Habilidades</h2>
 
 ###
 
